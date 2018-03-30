@@ -14,11 +14,25 @@ Contact Pat: [s3cpat](https://s3c.ninja).
 
 # $ cat team.txt
 {:id="team"}
-<ul>
-	<li>Pat</li>
-	<li>Ryan</li>
-	<li>Wen</li>
-</ul>
+<ul><hr>
+	<li>Pat
+	<br>
+	Pat Heaney is a Junior at the Pennsylvania State University. He is pursuing a B.S. in Security and Risk Analysis at the College of Information Sciences and Technology with a focus in Information & Cybersecurity (ICS).
+	<br>
+	</li>
+<hr>	
+	<li>Ryan
+	<br>
+	Ryan Dougherty is a Junior at the Pennsylvania State University. He is pursuing a B.S. in Information and Science Technology at the College of Information Sciences and Technology with a focus in Design and Development of Applications.
+	<br>
+	</li>
+<hr>
+	<li>Wen
+	<br>
+	Wendy Davis is a Junior at Penn State majoring in Wildlife and Fisheries Science with a focus on wildlife stuides.
+	<br>
+	</li>
+<hr></ul>
 
 <ul>
 {% for member in site.categories.team reversed %}
