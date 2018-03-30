@@ -10,7 +10,7 @@ fanpage_id: ""
 
 # Site general settings
 lang: "en"
-ssl: false # It will redirect to https
+ssl: true # It will redirect to https
 
 # Media
 # Just the shortname:
