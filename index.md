@@ -32,6 +32,11 @@ Contact Pat: [s3cpat](https://s3c.ninja).
 	Wendy Davis is a Junior at Penn State majoring in Wildlife and Fisheries Science with a focus on wildlife stuides.
 	<br>
 	</li>
+<hr>
+	<li>Anthony
+	<br>
+	Anthony is a Junior at the Pennsylvania State University. He is pursuing a B.S. in Security and Risk Analysis at the College of Information Sciences and Technology with a focus in Information & Cybersecurity (ICS).
+	<br>
 <hr></ul>
 
 <ul>
