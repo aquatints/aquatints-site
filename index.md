@@ -37,6 +37,7 @@ Contact Pat: [s3cpat](https://s3c.ninja).
 	<br>
 	Anthony is a Junior at the Pennsylvania State University. He is pursuing a B.S. in Security and Risk Analysis at the College of Information Sciences and Technology with a focus in Information & Cybersecurity (ICS).
 	<br>
+	</li>
 <hr></ul>
 
 <ul>
